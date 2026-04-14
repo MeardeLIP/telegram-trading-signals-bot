@@ -2,3 +2,6 @@
 Thumbs.db
 .env
 .env.*
+
+# Черновики постов для Telegram — только локально, не в репозитории
+POST_TELEGRAM.md
